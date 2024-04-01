@@ -26,7 +26,7 @@
 <code><img height="40" alt="docker" src="https://cdn-icons-png.flaticon.com/128/5969/5969059.png"></code>
 <code><img height="40" alt="mysql" src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png"></code> 
 <code><img height="40" alt="postgres" src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png"></code> 
-<code><img height="40" alt="flutter" src="https://iconscout.com/free-icon/flutter-2038877.png"></code> 
+<code><img height="40" alt="flutter" src="https://iconscout.com/free-icon/flutter-2038877"></code> 
 
 </div>
 
