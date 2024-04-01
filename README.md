@@ -26,8 +26,7 @@
 <code><img height="40" alt="docker" src="https://cdn-icons-png.flaticon.com/128/5969/5969059.png"></code>
 <code><img height="40" alt="mysql" src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png"></code> 
 <code><img height="40" alt="postgres" src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png"></code> 
-<code><img height="40" alt="flutter" src="![image](https://github.com/keven157751/keven157751/assets/110134447/82af6e34-c75e-4a59-91d5-c1a2474a2aa4)
-"></code> 
+<code><img height="40" alt="flutter" src="![image](https://github.com/keven157751/keven157751/assets/110134447/82af6e34-c75e-4a59-91d5-c1a2474a2aa4)"></code> 
 
 </div>
 
