@@ -1,6 +1,6 @@
-<h1 align="center">Hi there <img height="40" alt="javascript" src="https://cdn-icons-png.flaticon.com/512/5812/5812746.png">, I'm Keven Willian.</h1>
+<h1 align="center">Olá Bem vindo<img height="40" alt="javascript" src="https://cdn-icons-png.flaticon.com/512/5812/5812746.png">, Me chamo Keven Willian.</h1>
 <br>
-<h3 align="center">Hi, I'm Keven Willian, a Software Engineer looking for knowledge from Brazil.</h3>
+<h3 align="center">Olá, Me chamo Keven Willian, sou Software Engineer e Developer Front end e Back end.</h3>
 <h3 align="center">Connect with me:</h3>
 <div align="center">  
 <!--   <code><a href="https://www.linkedin.com/in/felipe-caldas-000/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank" alt="linkedin" width="50"></a></code> -->
