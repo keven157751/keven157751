@@ -29,8 +29,9 @@
 <code><img height="40" alt="react" src="physics.png"></code> 
 <code><img height="40" alt="Flutter" src="flutter.svg"></code> 
 <code><img height="40" alt="Dart" src="dart.1021x1024.png"></code> 
-<code><img height="40" alt="Firebird" src=""></code>
-<code><img height="40" alt="Pascal" src=""></code> 
+<code><img height="40" alt="Firebird" src="firebird.png"></code>
+<code><img height="40" alt="Pascal" src="pascal.png"></code> 
+<code><img height="40" alt="SqlServer" src="sql-server.png"></code> 
 
 </div>
 
