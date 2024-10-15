@@ -21,17 +21,7 @@
   
 **Languages, Frameworks and Others**
   
-<code><img height="40" alt="javascript" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"></code>
-<code><img height="40" alt="typescript" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png"></code>
-<code><img height="40" alt="docker" src="https://cdn-icons-png.flaticon.com/128/5969/5969059.png"></code>
-<code><img height="40" alt="mysql" src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png"></code> 
-<code><img height="40" alt="postgres" src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png"></code> 
-<code><img height="40" alt="react" src="physics.png"></code> 
-<code><img height="40" alt="Flutter" src="flutter.svg"></code> 
-<code><img height="40" alt="Dart" src="dart.1021x1024.png"></code> 
-<code><img height="40" alt="Firebird" src="firebird.png"></code>
-<code><img height="40" alt="Pascal" src="pascal.png"></code> 
-<code><img height="40" alt="SqlServer" src="sql-server.png"></code> 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,dart,flutter,firebase,express,bitbucket,discord,docker,express,git,github,jenkins,mint,mysql,nextjs,nodejs,npm,postgres,postman,react,tailwind,ts,vscode,)](https://skillicons.dev)
 
 </div>
 
