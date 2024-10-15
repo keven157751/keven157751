@@ -21,7 +21,7 @@
   
 **Languages, Frameworks and Others**
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,dart,flutter,firebase,express,bitbucket,discord,docker,express,git,github,jenkins,mint,mysql,nextjs,nodejs,npm,postgres,postman,react,tailwind,ts,vscode,androidstudio,lua,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,flutter,firebase,express,bitbucket,discord,docker,express,git,github,jenkins,mint,mysql,nextjs,nodejs,npm,postgres,postman,react,tailwind,ts,vscode,androidstudio,lua,vite)](https://skillicons.dev)
 
 </div>
 
