@@ -17,7 +17,7 @@
 
 <br>
 <br>
-<div align="center" size=10> 
+<div align="center"> 
   
 **Languages, Frameworks and Others**
   
