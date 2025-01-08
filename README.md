@@ -3,7 +3,7 @@
 <h3 align="center">Olá, Me chamo Keven Willian, sou Developer Front end e Back end.</h3>     
 <h3 align="center">Conecte-se comigo:</h3> 
 <div align="center">  
-<!--   <code><a href="https://www.linkedin.com/in/keven-willian-000/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank" alt="linkedin" width="50"></a></code> -->
+  <code><a href="https://www.linkedin.com/in/keven-willian-42a078234/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" target="_blank" alt="linkedin" width="50"></a></code>
 </div>
 <br>
 
